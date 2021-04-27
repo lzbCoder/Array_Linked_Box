@@ -1,4 +1,4 @@
-package com.test;
+package testgit;
 
 public class TestBarach3 {
 }
